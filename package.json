@@ -1,0 +1,19 @@
+{
+  "name": "@naveqo/design-tokens",
+  "version": "0.0.1",
+  "description": "",
+  "style": "build/css/design-tokens.css",
+  "files": [
+    "build/css/**"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naveqo/design-tokens.git"
+  },
+  "author": "Atsushi Watanabe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/naveqo/design-tokens/issues"
+  },
+  "homepage": "https://github.com/naveqo/design-tokens#readme"
+}

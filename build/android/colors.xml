@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly
+  Generated on Sat, 09 Jul 2022 08:35:52 GMT
+-->
+<resources>
+  <color name="color_base_gray_50">#fff4f5f6</color>
+  <color name="color_base_gray_300">#ff7e8c9a</color>
+  <color name="color_base_gray_500">#ff525960</color>
+  <color name="color_base_gray_700">#ff001319</color>
+  <color name="color_base_blue_50">#ffe3f2fe</color>
+  <color name="color_base_blue_300">#ff0097fe</color>
+  <color name="color_base_blue_500">#ff0065ca</color>
+  <color name="color_base_blue_700">#ff0046ab</color>
+  <color name="color_base_yellow_50">#fffff8e1</color>
+  <color name="color_base_yellow_300">#fffee182</color>
+  <color name="color_base_yellow_500">#fffdc400</color>
+  <color name="color_base_yellow_700">#fffe9000</color>
+  <color name="color_font_base">#fff4f5f6</color>
+  <color name="color_font_secondary">#ffe3f2fe</color>
+  <color name="color_font_tertiary">#fffff8e1</color>
+  
+</resources>
